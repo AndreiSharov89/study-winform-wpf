@@ -1,0 +1,17 @@
+D:\Csharp\WinForms\lab06\WinGrafSinLine\bin\Debug\net8.0-windows\WinGrafSinLine.exe
+D:\Csharp\WinForms\lab06\WinGrafSinLine\bin\Debug\net8.0-windows\WinGrafSinLine.deps.json
+D:\Csharp\WinForms\lab06\WinGrafSinLine\bin\Debug\net8.0-windows\WinGrafSinLine.runtimeconfig.json
+D:\Csharp\WinForms\lab06\WinGrafSinLine\bin\Debug\net8.0-windows\WinGrafSinLine.dll
+D:\Csharp\WinForms\lab06\WinGrafSinLine\bin\Debug\net8.0-windows\WinGrafSinLine.pdb
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.Form1.resources
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.csproj.GenerateResource.cache
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.AssemblyInfo.cs
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.dll
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\refint\WinGrafSinLine.dll
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.pdb
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.genruntimeconfig.cache
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\ref\WinGrafSinLine.dll
+D:\Csharp\WinForms\lab06\WinGrafSinLine\obj\Debug\net8.0-windows\WinGrafSinLine.edit.resources

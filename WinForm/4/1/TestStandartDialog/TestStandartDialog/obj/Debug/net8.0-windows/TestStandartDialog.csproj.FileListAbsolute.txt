@@ -1,0 +1,16 @@
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.deps.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.runtimeconfig.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\bin\Debug\net8.0-windows\TestStandartDialog.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.Form1.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.AssemblyInfoInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.AssemblyInfo.cs
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\refint\TestStandartDialog.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\TestStandartDialog.genruntimeconfig.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\1\TestStandartDialog\TestStandartDialog\obj\Debug\net8.0-windows\ref\TestStandartDialog.dll

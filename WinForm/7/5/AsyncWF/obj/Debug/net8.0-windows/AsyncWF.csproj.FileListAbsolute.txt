@@ -1,0 +1,33 @@
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.exe
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.deps.json
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.runtimeconfig.json
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.pdb
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.Form1.resources
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfo.cs
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\refint\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.pdb
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.genruntimeconfig.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\ref\AsyncWF.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\refint\AsyncWF.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\5\AsyncWF\obj\Debug\net8.0-windows\ref\AsyncWF.dll

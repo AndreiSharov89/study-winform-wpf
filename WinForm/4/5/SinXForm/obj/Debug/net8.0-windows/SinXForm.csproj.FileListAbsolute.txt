@@ -1,0 +1,34 @@
+D:\Csharp\WinForms\SinXForm\bin\Debug\net8.0-windows\SinXForm.exe
+D:\Csharp\WinForms\SinXForm\bin\Debug\net8.0-windows\SinXForm.deps.json
+D:\Csharp\WinForms\SinXForm\bin\Debug\net8.0-windows\SinXForm.runtimeconfig.json
+D:\Csharp\WinForms\SinXForm\bin\Debug\net8.0-windows\SinXForm.dll
+D:\Csharp\WinForms\SinXForm\bin\Debug\net8.0-windows\SinXForm.pdb
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.Form1.resources
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.Form2.resources
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.csproj.GenerateResource.cache
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.AssemblyInfo.cs
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.dll
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\refint\SinXForm.dll
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.pdb
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\SinXForm.genruntimeconfig.cache
+D:\Csharp\WinForms\SinXForm\obj\Debug\net8.0-windows\ref\SinXForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\bin\Debug\net8.0-windows\SinXForm.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\bin\Debug\net8.0-windows\SinXForm.deps.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\bin\Debug\net8.0-windows\SinXForm.runtimeconfig.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\bin\Debug\net8.0-windows\SinXForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\bin\Debug\net8.0-windows\SinXForm.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.Form1.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.Form2.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.AssemblyInfoInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.AssemblyInfo.cs
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\refint\SinXForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\SinXForm.genruntimeconfig.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\5\SinXForm\obj\Debug\net8.0-windows\ref\SinXForm.dll

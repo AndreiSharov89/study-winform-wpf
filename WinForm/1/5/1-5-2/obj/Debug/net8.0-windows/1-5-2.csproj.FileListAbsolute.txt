@@ -1,0 +1,36 @@
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.exe
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\_1_5_2.First.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\_1_5_2.GreenPeace.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\refint\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\ref\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\bin\Debug\net8.0-windows\1-5-2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\_1_5_2.First.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\_1_5_2.GreenPeace.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\refint\1-5-2.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\1-5-2.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-2\obj\Debug\net8.0-windows\ref\1-5-2.dll

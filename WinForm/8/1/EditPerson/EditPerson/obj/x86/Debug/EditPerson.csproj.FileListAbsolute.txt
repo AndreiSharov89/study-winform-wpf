@@ -1,0 +1,53 @@
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Form1.resources
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb
+c:\users\пользователь\documents\visual studio 2010\Projects\EditPerson\EditPerson\obj\x86\Debug\EditPerson.EditPersonForm.resources
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb
+C:\Users\bayes\Documents\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\bayes\Documents\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.EditPersonForm.resources
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Form1.resources
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Properties.Resources.resources
+C:\Users\bayes\Documents\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.GenerateResource.Cache
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.EditPersonForm.resources
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Form1.resources
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Properties.Resources.resources
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1_Учебная работа\УМК\УМК_ФГОС_2013\УМК_Программирование_основы_алгоритмизации\Практика_ПА\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Labs_Win\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.AssemblyReference.cache
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.EditPersonForm.resources
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Form1.resources
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Properties.Resources.resources
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+D:\Csharp\WinForms\Lab08\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.EditPersonForm.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.Properties.Resources.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\8\1\EditPerson\EditPerson\obj\x86\Debug\EditPerson.pdb

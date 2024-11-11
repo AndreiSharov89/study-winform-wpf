@@ -1,0 +1,34 @@
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.Form1.resources
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.Form2.resources
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.csproj.GenerateResource.cache
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.AssemblyInfo.cs
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.exe
+D:\Csharp\WinForms\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.deps.json
+D:\Csharp\WinForms\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.runtimeconfig.json
+D:\Csharp\WinForms\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.dll
+D:\Csharp\WinForms\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.pdb
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.dll
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\refint\NoModalWinForm.dll
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.pdb
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.genruntimeconfig.cache
+D:\Csharp\WinForms\NoModalWinForm\obj\Debug\net8.0-windows\ref\NoModalWinForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.deps.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.runtimeconfig.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\bin\Debug\net8.0-windows\NoModalWinForm.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.Form1.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.Form2.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.AssemblyInfoInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.AssemblyInfo.cs
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\refint\NoModalWinForm.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\NoModalWinForm.genruntimeconfig.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\Ответы\Lab04\NoModalWinForm\obj\Debug\net8.0-windows\ref\NoModalWinForm.dll

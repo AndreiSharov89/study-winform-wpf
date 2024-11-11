@@ -1,0 +1,34 @@
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.exe
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\_1_5_1.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\refint\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\ref\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\bin\Debug\net8.0-windows\1-5-1.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\_1_5_1.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\refint\1-5-1.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\1-5-1.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\1\5\1-5-1\obj\Debug\net8.0-windows\ref\1-5-1.dll

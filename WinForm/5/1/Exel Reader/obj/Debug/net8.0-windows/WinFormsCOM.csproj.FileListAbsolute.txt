@@ -1,0 +1,55 @@
+D:\Csharp\WinForms\WinFormsCOM\bin\Debug\net8.0-windows\WinFormsCOM.exe
+D:\Csharp\WinForms\WinFormsCOM\bin\Debug\net8.0-windows\WinFormsCOM.deps.json
+D:\Csharp\WinForms\WinFormsCOM\bin\Debug\net8.0-windows\WinFormsCOM.runtimeconfig.json
+D:\Csharp\WinForms\WinFormsCOM\bin\Debug\net8.0-windows\WinFormsCOM.dll
+D:\Csharp\WinForms\WinFormsCOM\bin\Debug\net8.0-windows\WinFormsCOM.pdb
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.csproj.ResolveComReference.cache
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.Form1.resources
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.csproj.GenerateResource.cache
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfo.cs
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.dll
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\refint\WinFormsCOM.dll
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.pdb
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\WinFormsCOM.genruntimeconfig.cache
+D:\Csharp\WinForms\WinFormsCOM\obj\Debug\net8.0-windows\ref\WinFormsCOM.dll
+D:\Csharp\WinForms\Lab05\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.exe
+D:\Csharp\WinForms\Lab05\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.deps.json
+D:\Csharp\WinForms\Lab05\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.runtimeconfig.json
+D:\Csharp\WinForms\Lab05\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.dll
+D:\Csharp\WinForms\Lab05\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.pdb
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.ResolveComReference.cache
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.Form1.resources
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfo.cs
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.dll
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\refint\WinFormsCOM.dll
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.pdb
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.genruntimeconfig.cache
+D:\Csharp\WinForms\Lab05\Exel Reader\obj\Debug\net8.0-windows\ref\WinFormsCOM.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\bin\Debug\net8.0-windows\WinFormsCOM.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.ResolveComReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\refint\WinFormsCOM.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\WinFormsCOM.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\5\1\Exel Reader\obj\Debug\net8.0-windows\ref\WinFormsCOM.dll

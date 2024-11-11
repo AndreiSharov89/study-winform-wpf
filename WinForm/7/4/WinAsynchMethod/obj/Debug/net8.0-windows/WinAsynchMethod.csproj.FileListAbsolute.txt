@@ -1,0 +1,33 @@
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.exe
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.deps.json
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.runtimeconfig.json
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.dll
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.pdb
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.Form1.resources
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfo.cs
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.dll
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\refint\WinAsynchMethod.dll
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.pdb
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.genruntimeconfig.cache
+D:\Csharp\WinForms\Lab07\WinAsynchMethod\obj\Debug\net8.0-windows\ref\WinAsynchMethod.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\refint\WinAsynchMethod.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\7\4\WinAsynchMethod\obj\Debug\net8.0-windows\ref\WinAsynchMethod.dll

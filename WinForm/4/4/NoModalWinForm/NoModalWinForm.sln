@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoModalWinForm", "NoModalWinForm.csproj", "{CF1435CD-B919-422B-BE40-85332B08B3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1435CD-B919-422B-BE40-85332B08B3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1435CD-B919-422B-BE40-85332B08B3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1435CD-B919-422B-BE40-85332B08B3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1435CD-B919-422B-BE40-85332B08B3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F09B4B7-847B-4036-8816-31E11659C071}
+	EndGlobalSection
+EndGlobal

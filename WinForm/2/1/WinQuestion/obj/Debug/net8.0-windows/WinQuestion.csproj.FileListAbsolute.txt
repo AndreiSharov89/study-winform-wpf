@@ -1,0 +1,17 @@
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.exe
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\refint\WinQuestion.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\1\WinQuestion\obj\Debug\net8.0-windows\ref\WinQuestion.dll

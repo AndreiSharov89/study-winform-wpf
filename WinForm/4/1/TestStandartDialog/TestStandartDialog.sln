@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStandartDialog", "TestStandartDialog\TestStandartDialog.csproj", "{02DE34F4-9F6E-41B9-B19C-CA1148DA6BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DE34F4-9F6E-41B9-B19C-CA1148DA6BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DE34F4-9F6E-41B9-B19C-CA1148DA6BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DE34F4-9F6E-41B9-B19C-CA1148DA6BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DE34F4-9F6E-41B9-B19C-CA1148DA6BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC3F5C3-D278-4E80-8494-351667C41407}
+	EndGlobalSection
+EndGlobal

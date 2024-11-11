@@ -1,0 +1,34 @@
+D:\Csharp\WinForms\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.exe
+D:\Csharp\WinForms\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.deps.json
+D:\Csharp\WinForms\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.runtimeconfig.json
+D:\Csharp\WinForms\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.dll
+D:\Csharp\WinForms\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.pdb
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.Form1.resources
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.NamePinValid.resources
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.csproj.GenerateResource.cache
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.AssemblyInfo.cs
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.dll
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\refint\NamePinValid.dll
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.pdb
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.genruntimeconfig.cache
+D:\Csharp\WinForms\NamePinValid\obj\Debug\net8.0-windows\ref\NamePinValid.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.deps.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.runtimeconfig.json
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\bin\Debug\net8.0-windows\NamePinValid.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.Form1.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.NamePinValid.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.AssemblyInfoInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.AssemblyInfo.cs
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\refint\NamePinValid.dll
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\NamePinValid.genruntimeconfig.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\3\4\NamePinValid\obj\Debug\net8.0-windows\ref\NamePinValid.dll

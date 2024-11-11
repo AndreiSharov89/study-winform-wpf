@@ -1,0 +1,17 @@
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\bin\Debug\net8.0-windows\TestList.exe
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\bin\Debug\net8.0-windows\TestList.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\bin\Debug\net8.0-windows\TestList.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\bin\Debug\net8.0-windows\TestList.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\bin\Debug\net8.0-windows\TestList.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\refint\TestList.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\TestList.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\2\TestList\obj\Debug\net8.0-windows\ref\TestList.dll

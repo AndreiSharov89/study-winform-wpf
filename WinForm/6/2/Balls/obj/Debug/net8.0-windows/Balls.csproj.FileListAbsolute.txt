@@ -1,0 +1,33 @@
+D:\Csharp\WinForms\lab06\Balls\bin\Debug\net8.0-windows\Balls.exe
+D:\Csharp\WinForms\lab06\Balls\bin\Debug\net8.0-windows\Balls.deps.json
+D:\Csharp\WinForms\lab06\Balls\bin\Debug\net8.0-windows\Balls.runtimeconfig.json
+D:\Csharp\WinForms\lab06\Balls\bin\Debug\net8.0-windows\Balls.dll
+D:\Csharp\WinForms\lab06\Balls\bin\Debug\net8.0-windows\Balls.pdb
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.Form1.resources
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.csproj.GenerateResource.cache
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfo.cs
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.dll
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\refint\Balls.dll
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.pdb
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\Balls.genruntimeconfig.cache
+D:\Csharp\WinForms\lab06\Balls\obj\Debug\net8.0-windows\ref\Balls.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\bin\Debug\net8.0-windows\Balls.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\bin\Debug\net8.0-windows\Balls.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\bin\Debug\net8.0-windows\Balls.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\bin\Debug\net8.0-windows\Balls.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\bin\Debug\net8.0-windows\Balls.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\refint\Balls.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\Balls.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\6\2\Balls\obj\Debug\net8.0-windows\ref\Balls.dll

@@ -1,0 +1,50 @@
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\Page1.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\Page2.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav_MarkupCompile.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav_MarkupCompile.lref
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\Page1.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\Page2.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.g.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\refint\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\master\WPFPractice 1\WpfHelloNav\obj\Debug\net8.0-windows\ref\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\bin\Debug\net8.0-windows\WpfHelloNav.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\Page1.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\Page2.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav_MarkupCompile.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav_MarkupCompile.lref
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\Page1.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\Page2.baml
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.g.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\refint\WpfHelloNav.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\WpfHelloNav.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\2_WPF\ДЗ\П1\WpfHelloNav\obj\Debug\net8.0-windows\ref\WpfHelloNav.dll

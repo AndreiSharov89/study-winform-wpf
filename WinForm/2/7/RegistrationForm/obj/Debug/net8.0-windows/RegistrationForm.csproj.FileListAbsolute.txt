@@ -1,0 +1,17 @@
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\refint\RegistrationForm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\7\RegistrationForm\obj\Debug\net8.0-windows\ref\RegistrationForm.dll

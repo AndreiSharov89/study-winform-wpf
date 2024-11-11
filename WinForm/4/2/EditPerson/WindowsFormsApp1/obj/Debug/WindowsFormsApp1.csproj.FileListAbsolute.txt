@@ -1,0 +1,11 @@
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPersonForm.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sharo\Desktop\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\4\2\EditPerson\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

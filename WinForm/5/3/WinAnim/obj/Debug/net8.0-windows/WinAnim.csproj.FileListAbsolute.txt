@@ -1,0 +1,16 @@
+D:\Csharp\WinForms\Lab05\WinAnim\bin\Debug\net8.0-windows\WinAnim.exe
+D:\Csharp\WinForms\Lab05\WinAnim\bin\Debug\net8.0-windows\WinAnim.deps.json
+D:\Csharp\WinForms\Lab05\WinAnim\bin\Debug\net8.0-windows\WinAnim.runtimeconfig.json
+D:\Csharp\WinForms\Lab05\WinAnim\bin\Debug\net8.0-windows\WinAnim.dll
+D:\Csharp\WinForms\Lab05\WinAnim\bin\Debug\net8.0-windows\WinAnim.pdb
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.Form1.resources
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.AssemblyInfo.cs
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.dll
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\refint\WinAnim.dll
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.pdb
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\WinAnim.genruntimeconfig.cache
+D:\Csharp\WinForms\Lab05\WinAnim\obj\Debug\net8.0-windows\ref\WinAnim.dll

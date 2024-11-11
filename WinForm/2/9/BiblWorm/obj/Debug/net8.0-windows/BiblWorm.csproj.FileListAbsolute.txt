@@ -1,0 +1,34 @@
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.exe
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\refint\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\6\BiblWorm\obj\Debug\net8.0-windows\ref\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.exe
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.deps.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.runtimeconfig.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.sourcelink.json
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\refint\BiblWorm.dll
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Рабочий стол\5 - Разработка настольных приложений на C#\1_WindowsForms\ДЗ\2\9\BiblWorm\obj\Debug\net8.0-windows\ref\BiblWorm.dll
